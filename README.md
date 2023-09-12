@@ -1,4 +1,3 @@
-```markdown
 # ReAct Framework Implementation
 
 This repository contains an implementation of the "ReAct" framework using OpenAI's GPT-3.5 Turbo model and LangChain, enabling dynamic reasoning and interaction with external information sources.
